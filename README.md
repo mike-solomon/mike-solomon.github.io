@@ -1,2 +1,3 @@
 # mike-solomon.github.io
-Meow
+
+My blog. Lots of stuff borrowed from [Jekyll-Now](https://github.com/barryclark/jekyll-now)

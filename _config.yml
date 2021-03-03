@@ -18,19 +18,38 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+name: Mike Solomon
+
+# Displayed in header
+description: >-
+  Heyo!
+
+avatar: https://avatars.githubusercontent.com/u/1187834?s=460&u=9dc648020c9924b08fe2de9557fd1844531f713e&v=4
 title: Mike's Awesome Blog
 email: mikesol@hey.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Heyo!
+
+footer-links:
+  dribbble:
+  email: mikesol@hey.com
+  facebook:
+  flickr:
+  github: mike-solomon
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: mikesol314
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mikesol314
-github_username: mike-solomon
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -39,14 +58,9 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
