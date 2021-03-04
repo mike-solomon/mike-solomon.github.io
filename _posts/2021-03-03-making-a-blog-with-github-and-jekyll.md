@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "Making a blog with Github and Jekyll"
-date: 2021-03-03
+date: 2021-03-03 18:05:17 -0800
 tags: [Learning, Github, Jekyll]
 categories: [Learning, Github, Jekyll]
 ---
@@ -127,7 +128,8 @@ and set up the post properly. I didn't want to have to check the date and proper
 write things each time - so I searched around for a script that would help with this.
 
 Fortunately, I found [this gist](https://gist.github.com/aamnah/f89fca7906f66f6f6a12#gistcomment-3243700) that had a really clean and simple script
-for doing just that. I've stuck that in this repo and used it to make this post ^.^
+for doing just that. I made some minor tweaks to better suit my needs and then stuck
+it in this repo and used it to make this post ^.^
 
 ## Conclusions / Going Forward
 
