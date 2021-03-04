@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making a blog with Github and Jekyll"
-date: 2021-03-03 18:05:17 -0800
+date: 2021-03-03 18:05:17
 tags: [Learning, Github, Jekyll]
 categories: [Learning, Github, Jekyll]
 ---
