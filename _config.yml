@@ -25,6 +25,7 @@ description: >-
   Heyo!
 
 avatar: https://avatars.githubusercontent.com/u/1187834?s=460&u=9dc648020c9924b08fe2de9557fd1844531f713e&v=4
+
 title: Mike's Awesome Blog
 email: mikesol@hey.com
 
@@ -46,18 +47,38 @@ footer-links:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-plugins:
-  - jekyll-feed
+permalink: /:title/
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: "highlight"
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+include: ["_pages"]
+
+paginate: 6
+paginate_path: /page:num/
+
+# Exclude these files from your production _site
 exclude:
   - Gemfile
   - Gemfile.lock
