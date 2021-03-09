@@ -29,20 +29,24 @@ avatar: https://avatars.githubusercontent.com/u/1187834?s=460&u=9dc648020c9924b0
 title: Mike's Awesome Blog
 email: mikesol@hey.com
 
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: mikesol314
+
 footer-links:
-  dribbble:
-  email: mikesol@hey.com
-  facebook:
-  flickr:
-  github: mike-solomon
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: mikesol314
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+dribbble:
+email: mikesol@hey.com
+facebook:
+flickr:
+github: mike-solomon
+instagram:
+linkedin:
+pinterest:
+rss: # just type anything here for a working RSS icon
+twitter: mikesol314
+stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+youtube: # channel/<your_long_string> or user/<user-name>
+googleplus: # anything in your profile username that comes after plus.google.com/
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
