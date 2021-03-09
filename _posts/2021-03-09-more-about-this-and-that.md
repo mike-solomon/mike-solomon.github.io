@@ -6,7 +6,7 @@ tags: [Learning, Japanese]
 categories: [Learning, Japanese]
 ---
 
-In the [last post]({% link _posts_/2021-03-08-understanding-this-and-that-.md %}) we talked about
+In the last post we talked about
 `this` (`これ`) and `that` (`それ` and `あれ`) in Japanese. However, those words we talked about _do
 not_ work if we wanted to say "this book" or "that umbrella" in Japanese. Why not? What should we
 say instead? Below we'll go into more detail!
