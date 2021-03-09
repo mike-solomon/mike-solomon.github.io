@@ -55,8 +55,17 @@ mean "these books are mine."
 Likewise, if I said `あの猫は大好きです` - it _could_ mean "I love that cat" - but it _could also_
 mean "I love those cats".
 
+## Concluding Thoughts
+
+It's been quite interesting / challenging to figure out how to describe the idea of `this` and
+`that` in both English and Japanese. I think by trying to write this post I got a much better idea
+of how these things work.
+
+Did this post make sense to you? Did some other resource help this click for you? I'd love to know
+^.^
+
 ## References
 
-[Japanese Ammo with Misa](https://youtu.be/9ScV9fK9lIQ)
-[Imambi](https://www.imabi.net/kosoadoi.htm)
-[GogoNihon](https://gogonihon.com/en/blog/kore-sore-and-are/)
+- [Japanese Ammo with Misa](https://youtu.be/9ScV9fK9lIQ)
+- [Imambi](https://www.imabi.net/kosoadoi.htm)
+- [GogoNihon](https://gogonihon.com/en/blog/kore-sore-and-are/)
