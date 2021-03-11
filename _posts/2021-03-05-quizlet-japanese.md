@@ -37,7 +37,7 @@ example sentences that use those things and add that to my list of sentences.
 
 ## Where do you store the sentences?
 
-> This is out of date. I ended up dropping Quizlet due to the lack of an SRS system. I didn't realize how bad Quizlet's learning algorithm is (where it considers you "knowing" something to mean you got it right twice in a row regardless of the time between the two right answers). I've since gone back to Anki since it was the only tool I could find that did what I wanted. It still has a terrible UI but at least it works :shrugs: I'll write up a post on this later.
+> This is out of date. I ended up dropping Quizlet due to the lack of an SRS system. I didn't realize how bad Quizlet's learning algorithm is (where it considers you "knowing" something to mean you got it right twice in a row regardless of the time between the two right answers). I've since gone back to Anki since it was the only tool I could find that did what I wanted. It still has a terrible UI but at least it works :shrugs: I [wrote a post](https://mike-solomon.github.io/why-i-switched-to-anki-from-quizlet/) on this adventure if you're curious.
 
 At first I was a bit skeptical of this sentence mining approach because I didn't really know how
 I would go about making the sentences and saving them. I sure as heck wasn't going to write 1000+

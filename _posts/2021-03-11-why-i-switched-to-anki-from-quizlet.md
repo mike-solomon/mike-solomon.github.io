@@ -18,15 +18,15 @@ I think it's important to think about what my goal is.
 
 I want to learn how to read Japanese. Over the past 2 years, I've studied
 Hiragana, Katakana, Kanji, and vocab words. I'm not moving super fast - but
-I'm consistently doing it (just past 800 days in a row!). I know 549 kanji
-and 1,711 vocab words according to my wkstats page.
+I'm consistently doing it (just passed 800 days in a row!). I know 549 kanji
+and 1,711 vocab words according to my [wkstats page](https://www.wkstats.com).
 
 I have recently started trying to learn grammar so I can put some of this
-kanji / vocab to use and start reading some easy sentences. As part of that,
+kanji / vocab to use. I want to start reading some easy sentences. As part of that,
 I really liked the idea of [sentence mining](https://www.tofugu.com/japanese/japanese-sentence-study/).
 
-The gist of it is I want to find thousands of sentences and add them to a some
-tool that I can then review them over and over until I can understand them
+The gist of it is: I want to find thousands of sentences and add them to some
+tool so that I can then review them over and over until I can understand them
 very well.
 
 With that number of sentences - there's no way I can review them all every day.
@@ -50,7 +50,7 @@ Alright so with the goal established - let's talk about [Quizlet](https://quizle
   have multiple choice sentences, match stuff, type the answer, or just use
   straight up flashcards.
 - It's super easy to share sets of sentences with other people.
-- You can safe things to your phone for offline practice.
+- You can save things to your phone for offline practice.
 
 **Downsides**
 
@@ -60,9 +60,10 @@ Alright so with the goal established - let's talk about [Quizlet](https://quizle
   my queue for the next time I reviewed. If I got it right again - the item
   would go into a permanent "mastered" location. It doesn't matter if this was
   all in the course of one day or even one hour. It's mind boggling to me how
-  bad of an experience that is. My only option is to either reset the list all
-  the time and go through them or somehow keep track of it outside of the app.
-- Quizlet has a subscription fee associated with it - so if I wanted to use it
+  bad of an experience that is - especially considering how good the rest of the
+  app is. My only option is to either reset the list all
+  the time and go through them or somehow keep track of them outside of the app.
+- Quizlet has a subscription fee associated with it ($26 / year) - so if I wanted to use it
   for a long time, the cost could add up.
 - Quizlet doesn't handle furigana very well. I couldn't find any way to have it
   show the furigana in a clean way.
@@ -98,7 +99,7 @@ A few people swore by it on the WaniKani forums.
   big enough to even see all the numbers. It's not clear what many of these are
   and there's no way to hover over items to get an explanation as one would expect
   in modern web pages.
-- <img src="{{ site.baseurl }}/images/kitsun.PNG" alt="Kitsun" />
+  <img src="{{ site.baseurl }}/images/kitsun.PNG" alt="Kitsun" style="display: block;  margin-left: auto;  margin-right: auto;" />
 - Making cards is horrifically confusing. I wanted to make a card for a sentence
   and none of the templates offered to me were of great use. It then took me a
   long time to figure out how to even _make_ a card. There were so many options
@@ -132,8 +133,8 @@ is there a lot to say about this product.
 - Is free for use on the computer and the mobile app is only $25 for lifetime use.
 - Has a _ton_ of community support. People have decks for everything and have had
   these decks for years.
-- There's a ton of youtube videos explaining all parts of the app that may confuse
-  you. There's also a ton of posts throughout the web that explain more about it.
+- There's a lot of youtube videos explaining all parts of the app that may confuse
+  you. There's also a bunch of posts throughout the web that explain more about it.
 - The add-ons can enable so many amazing features. You want automatic text-to-speech
   from Google translate? Bam. What about automatic furigana when you post Kanji? Bam!
 - Once you get going entering sentences, it's the fastest option I found. It's very
@@ -152,6 +153,9 @@ is there a lot to say about this product.
 - Half the options in the app don't make sense to me even after going through docs.
 - Trying to understand where to go to change anything is difficult. Is the option
   in a deck? In a template? In a card? Somewhere else?
+- There's so many versions and half the things only work on specific versions.
+- Many add-ons don't work on mobile so you finally find something cool and then sad days
+  you can't use it on your phone.
 
 ## Why Anki was the winner
 
@@ -163,7 +167,9 @@ computer to enter sentences or study them.
 Right away that filtered out Quizlet and Mochi for me - so it came down to Kitsun
 or Anki. Even though Kitsun had a slightly better UI, I found it actually much
 harder to get used to. While Anki was ugly - it was consistent and I felt like I
-could get into a better flow with it. Furthermore, Anki has better community support
+could get into a better flow with it. I kept expecting Kitsun to be better because
+of the UI so even though it was so similar to Anki - it made me more frustrated
+because of that lol. Furthermore, Anki has better community support
 and is significantly cheaper.
 
 I think Kitsun could definitely improve over time but, for now, I'm going to stick
@@ -181,3 +187,4 @@ what you used and why? What was the most important thing to you?
 - [Kitsun](https://kitsun.io)
 - [Mochi](https://mochi.cards/)
 - [Anki](https://apps.ankiweb.net/)
+- [Wkstats](https://www.wkstats.com)
