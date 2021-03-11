@@ -38,7 +38,7 @@ question! So instead of, "Can I eat?" it becomes, "Even if you eat, it's fine" o
 You can simplify this to just `いいよ` (casual) or `いいですよ` (polite) - although I'll leave `よ`
 for another post as I don't fully grasp it yet and I also don't want this post to be too long.
 
-## Nouns vs. Adjectives
+## Nouns and Adjectives
 
 > A noun is a person place or thing and an adjective is something that describes a noun.
 
