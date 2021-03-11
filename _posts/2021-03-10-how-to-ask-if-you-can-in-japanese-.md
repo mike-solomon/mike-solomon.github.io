@@ -56,7 +56,7 @@ With nouns or adjectives, though, we have three options:
 
 The translation is pretty similar to the above - although I found it to be a little bit more
 confusing at times. Instead of thinking like "Even if X, it's fine" - it's more natural to think
-of these as "it is fine even if X".
+of these as "it is fine even if it is X".
 
 Let's talk through an example of each:
 
