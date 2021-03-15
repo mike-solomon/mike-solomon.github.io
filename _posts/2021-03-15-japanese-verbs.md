@@ -36,14 +36,11 @@ Even though this group is referred to as the "irregular" group - it actually is
 the easiest in my mind. That's because there's only 2 verbs in all of
 Japanese that fall into this group.
 
-Those verbs are `する` (to do) and `来る` (to come). When conjugating these,
-`する` becomes `し` + something and `来る` becomes `き` + something.
+Those verbs are `する` (to do) and `来る` (to come). Depending on the tense,
+there are special cases you just have to memorize for these.
 
-For instance, if you want to make verbs polite and in the present tense,
-you add `ます` after you make some change to the verb. So to make the polite
-form of `する` you first make the change to `し` then you add `ます` to
-the end to become `します`. The exact same thing happens with `来る` where it
-becomes `きます`.
+For instance, the present polite form of `する` is `します` and the present polite
+form of `来る` (`くる`) is `来ます` (`きます`).
 
 In another post, I'll talk about the different types of tenses there are and how
 to make them (such as polite, past, negative, etc). Just gotta learn that first haha.
@@ -67,12 +64,12 @@ end in iru or eru that don't belong in this group are `いる` (to need),
 `入る` (to enter), and `走る` (to run).
 
 With all that being said, this group of verbs _is_ nice in the sense that
-conjugating them is pretty easy - you just drop the `る` at the end of the verb
-and replace it with whatever modifier there is depending on the tense you're
-using.
+conjugating them is pretty easy.
 
-For instance, if we take the word `食べる` (to eat) and want to make that polite +
-present tense, we just drop the `る` and add `ます` to become `食べます`. Not too bad,
+For instance, to make the present polite form of a verb in this group, you just
+drop the `る` at the end of the verb and replace it with `ます`.
+
+For instance, the word `食べる` (to eat) would become `食べます`. Not too bad,
 right?
 
 ### Go-dan verbs / Group 1 verbs / う (u) verbs
@@ -89,14 +86,15 @@ mentioned in the previous section. If the verb ends with `aru`, `uru`, or `oru`,
 then it belongs in this group. If the verb ends with `iru` or `eru` - then it's
 _most likely_ not in this group - but there are a few notable exceptions.
 
-To conjugate this group of verbs, it's helpful to look at a Hiragana chart. Here
-is one that Kanji Link uses that's shortened to only include the columns that verbs
-can end in:
+The conjugation for this group depends on the tense - but the present polite tense
+isn't too bad to conjugate if you know Hiragana. Let's take a look at the Hiragana
+Chart that Kanji Link uses (which is shortened to only include the columns that verbs
+can end in):
 
 ![hiragana chart](https://www.kanji-link.com/docs/en_gram_n5_verb_masu.png)
 
-To conjugate these verbs, you simply find the character the verb ends in and change
-that to be the character from the previous row.
+To conjugate verbs in this group as polite + present, you simply find the character
+the verb ends in and change that to be the character from the previous row.
 
 So if a verb ends in `む` - then conjugating it would change that to `み`. Likewise,
 `す` would become `し` and so on.
@@ -104,6 +102,9 @@ So if a verb ends in `む` - then conjugating it would change that to `み`. Lik
 Let's pick a real example - the verb `消す` (to turn off / to erase). It ends in
 `す` so we would change that to `し` and the verb would become `消し` + something.
 The polite present form would be, `消します`.
+
+(Please remember that conjugating these verbs in other tenses is not
+necessarily the same)
 
 ## Other places I tried that I didn't find useful
 
