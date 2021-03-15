@@ -11,8 +11,8 @@ Japanese verbs. For instance, even though I may know the verb `食べる` (to ea
 I didn't know how I would change that if I wanted to say something like,
 "I ate" or "I will eat" or "I did not eat" or even "I want to eat." I began
 trying to look up some rules and wow was it difficult to find beginner friendly
-places! Below I'll talk about the three groups I learned about and what places I
-found useful or not.
+places! Below I'll talk about the three groups of verbs I learned about and
+what places I found useful or not.
 
 > Reminder that I'm learning Japanese so don't inherently trust anything below!
 
@@ -23,19 +23,17 @@ a few different names depending on the place that's describing them. Let's go
 through each of them.
 
 Note that I found the [Kanji Link](https://www.kanji-link.com/en/grammar/n5/)
-website to be the easiet way to understand these groups. Their videos were
+website to be the easiest way to understand these groups. Their videos were
 short, too the point, and beginner friendly. Much of the information below
 will be me summarizing that into words.
 
 They also have a [Verb Chart](https://www.kanji-link.com/docs/en_gram_n5_verbgroups.png)
 that summarizes this very well, too!
 
-![Verb Chart](https://www.kanji-link.com/docs/en_gram_n5_verbgroups.png)
-
 ### Irregular verbs / Group 3 verbs
 
 Even though this group is referred to as the "irregular" group - it actually is
-one of the easiest in my mind. That's because there's only 2 verbs in all of
+the easiest in my mind. That's because there's only 2 verbs in all of
 Japanese that fall into this group.
 
 Those verbs are `する` (to do) and `来る` (to come). When conjugating these,
@@ -47,8 +45,8 @@ form of `する` you first make the change to `し` then you add `ます` to
 the end to become `します`. The exact same thing happens with `来る` where it
 becomes `きます`.
 
-In another post, I'll learn about and go into the different types of endings
-there are (such as polite, past, negative, etc).
+In another post, I'll talk about the different types of tenses there are and how
+to make them (such as polite, past, negative, etc). Just gotta learn that first haha.
 
 ### Ichi-dan verbs / Group 2 verbs / る (ru) verbs / iru or eru verbs
 
@@ -57,15 +55,16 @@ verbs that belong in this group vs. the last remaining group.
 
 One of the most common ways of denoting this group is by calling it `ru` verbs.
 However, a verb ending in `ru` could belong to all three groups - so some
-people have changed this to be `iru` / `eru` verbs. That's because _all_ verbs
+people refer to this group as `iru` / `eru` verbs instead. That's because _all_ verbs
 that end in `aru`, `uru` or `oru` don't belong in this group. Also, _most_ verbs
 that end in `iru` or `eru` _do_ belong in this group.
 
 Unfortunately, that _most_ part is a bit tricky since there's no rule that I'm
 aware of that can be easily used to categorize verbs that end in `iru` or `eru`.
 Most places just say to memorize these, or read enough to be aware of them, or
-look them up in the dictionary. Some of the special verbs that I've learned are
-`いる` (to need), `入る` (to enter), and `走る` (to run).
+look them up in the dictionary. Some of the special verbs that I've learned that
+end in iru or eru that don't belong in this group are `いる` (to need),
+`入る` (to enter), and `走る` (to run).
 
 With all that being said, this group of verbs _is_ nice in the sense that
 conjugating them is pretty easy - you just drop the `る` at the end of the verb
@@ -73,7 +72,8 @@ and replace it with whatever modifier there is depending on the tense you're
 using.
 
 For instance, if we take the word `食べる` (to eat) and want to make that polite +
-present tense, we just drop the `る` and add `ます` to become `食べます`.
+present tense, we just drop the `る` and add `ます` to become `食べます`. Not too bad,
+right?
 
 ### Go-dan verbs / Group 1 verbs / う (u) verbs
 
@@ -81,7 +81,7 @@ If a verb does not fall into one of the two categories above, then it falls into
 this category. The reason this is called `u` verbs sometimes is because all Japanese
 verbs that are in the present / plain form end with an `う` sound.
 
-This makes many verbs really easy to find - as if they end in an `う` sound and
+This makes many verbs really easy to categorize - as if they end in an `う` sound and
 _don't_ end with `る` - then they are in this group.
 
 The problem becomes if a verb ends with a `る` - and the rule is the same thing
@@ -127,8 +127,13 @@ people may find these useful as everyone learns different!
 ## Concluding Thoughts
 
 Finding a place that made this click for me was hard - but I'm glad I persevered and
-kept looking around for something that fit me. Hopefully this post could help you or
-help guide you to something that works for you! Thanks for reading ^.^
+kept looking around for something that fit me. Hopefully this post helped you or will
+help guide you to something that works for you!
+
+If you already knew about the verb groups - where did you learn about them from? Any
+recommendations for others?
+
+Thanks for reading ^.^
 
 ## References
 
