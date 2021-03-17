@@ -66,12 +66,14 @@ really helpful at making this click better for me.
 ## Concluding Thoughts
 
 It's sort of funny that now that I know what an adjective is in English I feel like I still have
-a lot to learn about that same idea in Japanese. I'll have more work to do in regards to knowing
-whether or not a word is truly an adjective or not in Japanese. That being said, I found this post
-/ idea around adjectives super fascinating.
+a lot to learn about adjectives in Japanese. I only vaguely understand how to know if a word is
+an "い-adjective" or a "な-adjective" and how I'd use them differently in various situations.
+Nonetheless, I think this whole idea is really nifty and I'm looking forward to learning more!
 
 Do you understand adjectives in Japanese? Did you know about the fact that `です` is required for
 some words to become a complete sentence but not for others? Any resources you particularly liked?
+
+Thanks for reading :)
 
 ## References
 
