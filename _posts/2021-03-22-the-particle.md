@@ -8,7 +8,7 @@ categories: [Learning, Japanese]
 
 Trying to write a post on the `の` particle has been quite the challenge as there are _so many_
 uses for it. Often times, I would read an article and be like, "Ok cool I got it" - only to
-discover a myraid of other uses I didn't know about. There are a variety of uses I'm not going
+discover a myriad of other uses I didn't know about. There are a variety of uses I'm not going
 to write below as I'm still learning them - but I want to write down the ones I think I understand
 and can describe to some degree ^.^
 
@@ -39,8 +39,8 @@ include:
 - `指の先` - the tip of one's fingers
 
 In this case, you can almost think of `の` as the word `of` in English - you just have to read it
-from the right to the left. So `氷の上` would be "top (of the) ice" and `学校の前` would be "(in)
-front (of the) school)".
+from the right to the left. So `氷の上` would be "top 上 (of the) ice 氷" and `学校の前` would be
+"(in) front 前 (of the) school 学校)".
 
 That being said, there are plenty of cases where thinking of it as `of` might cause you trouble.
 For instance, `日本の車` would _not_ be a car of Japan but, would rather, mean a car _from_ Japan.
@@ -50,8 +50,9 @@ For instance, `日本の車` would _not_ be a car of Japan but, would rather, me
 Some nouns, like "teacher" can be expanded on. For instance, what do they teach and to what group
 of students? The `の` particle can be used to provide this information!
 
-For instance, if you want to say "a college professor", you would say: `大学の先生` or, if you wanted
-to say, "an english teacher" you would say: `英語の先生` (a teacher _of_ english).
+For instance, if you wanted to say "a college professor", you would say: `大学の先生` (university +
+の + professor). Or, if you wanted to say, "an english teacher", you would say: `英語の先生`
+(english + の + teacher).
 
 A full sentence example would be: `この学校は料理の学校です` (This school is a cooking school).
 
@@ -73,9 +74,9 @@ sister - but that would actually mean something like, Kaylie's Lily's elder sist
 make much sense. Instead, make sure you put the "main noun" at the end of the series and build
 from there. So, if we know we are going to end with Kaylie (as that's the person I'm introducing),
 we know that the sentence should end with `のKaylieさんです`. From there, how would we say "Lily's
-older sister?" Well, again, older sister is the key point there, so we'd say `Lilyさんのお姉さん`.
-String them together and you get, `こちらがLilyさんのお姉さんのKaylieさんです`. You could translate
-this as, "This is Lily's older sister, Kaylie" or you could translate it as "This is Kaylie, Lily's
+elder sister?" Well, again, elder sister is the key point there, so we'd say `Lilyさんのお姉さん`.
+String them together and you get, `こちらがLilyさんのお姉さんのKaylieさんです` - which I _think_ can
+be translated as either, "_This_ is Lily's older sister, Kaylie" or as, "_This_ is Kaylie, Lily's
 older sister."
 
 ## Other Important Information
