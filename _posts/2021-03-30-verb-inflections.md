@@ -8,11 +8,11 @@ categories: [Learning, Japanese]
 
 In a [previous post](https://mike-solomon.github.io/japanese-verbs/), we talked about Japanese verbs
 and the different groups they can fall in. We also briefly touched upon how to conjugate verbs in
-the present and polite form. In trying to learn more about conjugation, I realized there's _a lot_
+the non-past and polite form. In trying to learn more about conjugation, I realized there's _a lot_
 of forms / inflections and I couldn't easily describe each of them. Because of that, I decided to
 write up a post talking through each of these forms at a high level. I think that understanding
 these forms will helpful prior to diving deep into each one and learning how to conjugate verbs in
-said form.
+said forms.
 
 ## What are inflections / forms?
 
@@ -22,9 +22,13 @@ case, number, etc. For instance, in English, the verb "to eat" could become "I a
 "I will eat", "I eat", etc - depending on what we're trying to say.
 
 Japanese has a variety of different inflections / forms. I'm not going to go into all of them - but
-I do want to touch upon those that I think are the most important. Also, it's worth calling out that
-each of these forms has an "Affirmative" and a "Negative" conjugation associated with it. That
-being said, I'm not going to go into the specifics of either of those in this post.
+I do want to touch upon those that I think are the most important (based on various posts and
+videos I've read / watched). Each of these forms has an "affirmative" and a "negative" conjugation
+associated with it - but I'm not planning on diving into that in this post, either.
+
+Here's a photo showing what Jisho displays when you click on "Show Inflections" for a verb:
+
+<img src="{{ site.baseurl }}/images/inflections.png" alt="Inflections"/>
 
 ## Non-past / dictionary form / plain form
 
@@ -35,10 +39,10 @@ you can derive all the other forms once you learn how to identify which group a 
 You might wonder, why is this called the "non-past" form - after all wouldn't that imply both the
 present and the future? Interestingly, that is indeed what it implies. If you see a verb in this
 form, it could be talking about the present or the future. For instance, the sentence `８時に起きる`
-_could_ mean "I wake up at 8:00" such as in response to the question, "When do you wake up?" or it
-_could_ mean "I will wake up at 8:00" such as in response to the question, "When will you wake up
+_could_ mean, "I wake up at 8:00" such as in response to the question, "When do you wake up?" or it
+_could_ mean, "I will wake up at 8:00" such as in response to the question, "When will you wake up
 tomorrow?" Furthermore, the subject of these sentences can change depending on context. For
-example, the sentences above _could_ mean "She will wake up at 8:00" or "They wake up at 8:00".
+example, the sentences above _could_ mean, "She will wake up at 8:00" or, "They wake up at 8:00".
 Context is the only way to tell which of these numerous options they mean.
 
 One thing I particularly struggled with in regards to this non-past idea is that things you are
