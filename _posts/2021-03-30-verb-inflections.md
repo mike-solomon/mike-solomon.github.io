@@ -11,12 +11,12 @@ and the different groups they can fall in. We also briefly touched upon how to c
 the non-past and polite form. In trying to learn more about conjugation, I realized there's _a lot_
 of forms / inflections and I couldn't easily describe each of them. Because of that, I decided to
 write up a post talking through each of these forms at a high level. I think that understanding
-these forms will helpful prior to diving deep into each one and learning how to conjugate verbs in
-said forms.
+these forms will be helpful prior to diving deep into each one and learning how to conjugate verbs
+in said forms.
 
 ## What are inflections / forms?
 
-Before we go into the different inflections / forms, I want to talk about what that word even means.
+Before we go into the different inflections / forms, I want to talk about what the word "inflection" even means.
 An inflection is when a word is modified to express different gramatical categories such as tense,
 case, number, etc. For instance, in English, the verb "to eat" could become "I ate", "I am eating",
 "I will eat", "I eat", etc - depending on what we're trying to say.
@@ -24,9 +24,10 @@ case, number, etc. For instance, in English, the verb "to eat" could become "I a
 Japanese has a variety of different inflections / forms. I'm not going to go into all of them - but
 I do want to touch upon those that I think are the most important (based on various posts and
 videos I've read / watched). Each of these forms has an "affirmative" and a "negative" conjugation
-associated with it - but I'm not planning on diving into that in this post, either.
+associated with it - but I'm not planning on diving into those variants in this post, either.
 
-Here's a photo showing what Jisho displays when you click on "Show Inflections" for a verb:
+For further context, here's a photo showing what Jisho displays when you click on "Show Inflections"
+for a verb:
 
 <img src="{{ site.baseurl }}/images/inflections.png" alt="Inflections"/>
 
@@ -77,10 +78,7 @@ watching a movie) does not fall into this category because we don't know if the 
 watching the film or not (instead, it falls into the "past continuous" form).
 
 Tofugu has a pretty good article on this [here](https://www.tofugu.com/japanese-grammar/verb-past-continuous-form-teita/)
-that helped me understand this a better better.
-
-Notice that the title of the form doesn't include "polite" - that means that you shouldn't use this
-form when interacting with people you're unfamiliar with.
+that helped me understand this a bit better.
 
 ## Past, polite
 
@@ -130,7 +128,7 @@ The last form I'm going to talk about is the volitional form - which expresses v
 proposition, or invitation - similar to "let's" or "shall we" in English.
 
 > Volition is the cognitive process by which an individual decides on and commits to a particular
-> course of action [Wikipedia](<https://en.wikipedia.org/wiki/Volition_(psychology)>)
+> course of action [(Wikipedia)](<https://en.wikipedia.org/wiki/Volition_(psychology)>)
 
 Some examples would be: `動物園に行こう!` (**Let's** go to the zoo!) and `私がカレーを作ろうか`
 (Shall I make the curry?)
@@ -147,7 +145,7 @@ not actually sure why, though. If you do know - please let me know ^.^
 It's a bit crazy to me that there's so many forms and that there's an affirmative and negative
 variant as well as a polite and casual variant for them. I'm sure English prolly has just as many -
 but it's not something I've ever thought about before. I'm glad I took the time to try and parse
-each of these forms, though as looking at the dictionary and seeing "Potential form" really meant
+each of these forms, though, as looking at the dictionary and seeing "Potential form" really meant
 nothing to me prior to this. In future posts I want to dive a bit further into each one of these
 and really learn how to use them in both the affirmative and negative ways.
 
