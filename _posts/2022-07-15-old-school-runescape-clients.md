@@ -38,7 +38,7 @@ That being said, some people prefer this client as it has that true rustic exper
 
 ### Installation Instructions (Windows)
 
-1. Go to: https://www.jagex.com/en-GB/launcher
+1. Go to: [https://www.jagex.com/en-GB/launcher](https://www.jagex.com/en-GB/launcher)
 2. Press the button that says: `Download Jagex Launcher`.
 3. Open your downloads folder.
 4. Run the executable called: `Jagex Launcher Installer.exe`
@@ -51,7 +51,7 @@ That being said, some people prefer this client as it has that true rustic exper
 
 ### Installation Instructions (Mac)
 
-1. Go to: https://oldschool.runescape.com/download
+1. Go to: [https://oldschool.runescape.com/download](https://oldschool.runescape.com/download)
 2. Press the button that says: `Download for Mac OS`.
 3. Follow the instructions that appear on the web page for how to proceed.
 4. OSRS should now be installed and you can launch it like any other Mac app (by either dragging the
@@ -71,10 +71,9 @@ users still prefer to play on one of the third-party options mentioned below.
 
 > OSRS is only available for Windows on Steam
 
-1. Open Steam.
-2. Search for `Old School RuneScape`.
-3. Scroll down and press `Play Game`.
-4. Steam will install the game and it will then be available to launch at any time in your games library.
+1. Go to: [https://store.steampowered.com/app/1343370/Old_School_RuneScape/](https://store.steampowered.com/app/1343370/Old_School_RuneScape/)
+2. Scroll down and press `Play Game`.
+3. Steam will install the game and it will then be available to launch at any time in your games library.
 
 ## RuneLite
 
@@ -88,7 +87,7 @@ extremely active dev team that ensures the client is up to date after every upda
 
 ### Installation Instructions (Windows and Mac)
 
-1. Navigate to: https://runelite.net/
+1. Navigate to: [https://runelite.net/](https://runelite.net/)
 2. Press the `Download` button that appears in the middle of the screen.
 3. Open up your downloads folder.
 4. Run the file that was downloaded.
@@ -106,7 +105,7 @@ to your taste or not as that’s one of the main benefits of this option compare
 
 ### Installation Instructions (Windows and Mac)
 
-1. Navigate to: https://www.hdos.dev/
+1. Navigate to: [https://www.hdos.dev/](https://www.hdos.dev/)
 2. Press the `Download` button that appears in the middle of the screen.
 3. Open up your downloads folder.
 4. Run the file that was downloaded.
@@ -125,7 +124,7 @@ through a subscription rather than relying on the generosity of community.
 
 ### Installation Instructions (Windows and Mac)
 
-1. Navigate to: https://rsbuddy.com/osb
+1. Navigate to: [https://rsbuddy.com/osb](https://rsbuddy.com/osb)
 2. Scroll down on the page until you see a green Download button.
 3. Press the `Download` button.
 4. Open up your downloads folder.
