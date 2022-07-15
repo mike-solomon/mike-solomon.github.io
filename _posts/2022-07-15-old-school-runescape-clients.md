@@ -18,7 +18,7 @@ for playing OSRS and how to install each of them safely.
 
 ## The Clients
 
-As of June 2022<sup>1</sup>, there are five officially supported clients for OSRS. These are:
+As of June 2022¹, there are five officially supported clients for OSRS. These are:
 
 - [The official Jagex client](https://www.jagex.com/en-GB/launcher)
 - [Old School RuneScape on Steam](https://store.steampowered.com/app/1343370/Old_School_RuneScape/)
