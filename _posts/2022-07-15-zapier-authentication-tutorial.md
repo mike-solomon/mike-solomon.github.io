@@ -40,7 +40,7 @@ things (such as send an email).
 
 The end user provides their username and password to the app making the request
 (in our case - to us - Zapier). The app then takes the username and password and concatenates
-them with a ":" and then [base64](#base-64-encoding) encodes them.
+them with a ":". It then [base64](#base-64-encoding) encodes them.
 
 Please note that this does not provide any type of security for the username and password. Rather,
 it just ensures that the text is HTTP-compatible. From there, any requests made will include a
