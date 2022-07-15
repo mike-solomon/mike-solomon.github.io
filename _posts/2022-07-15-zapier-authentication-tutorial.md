@@ -23,7 +23,7 @@ and their corresponding pros and cons.
 ## Authentication Schemes
 
 - [Basic Auth](#basic-auth)
-- [OAuth V1](#oauth-v1)
+- [OAuth v1](#oauth-v1)
 - [OAuth v2](#oauth-v2)
 - [Custom / API Key Auth](#custom--api-key-auth)
 
