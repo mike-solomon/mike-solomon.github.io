@@ -146,4 +146,4 @@ School RuneScape.
 
 ## References and citations
 
-1. https://secure.runescape.com/m=news/third-party-clients-update?oldschool=1
+1. [https://secure.runescape.com/m=news/third-party-clients-update?oldschool=1](https://secure.runescape.com/m=news/third-party-clients-update?oldschool=1)
