@@ -204,7 +204,7 @@ With that being said, OAuth v2 is a breaking change from OAuth v1. There were a 
 v1 that we don't really need to worry about in our day-to-day lives at Zapier.
 
 If you want to know more about all the details, I'd recommend giving this article a read: _redacted-link_
-as well as this Stack Overflow answer: https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
+as well as this Stack Overflow answer: [https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1](https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1)
 
 What is worth knowing about v1 vs. v2 in Zapier would be:
 
