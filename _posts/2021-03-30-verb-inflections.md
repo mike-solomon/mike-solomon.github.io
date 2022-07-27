@@ -17,7 +17,7 @@ in said forms.
 ## What are inflections / forms?
 
 Before we go into the different inflections / forms, I want to talk about what the word "inflection" even means.
-An inflection is when a word is modified to express different gramatical categories such as tense,
+An inflection is when a word is modified to express different grammatical categories such as tense,
 case, number, etc. For instance, in English, the verb "to eat" could become "I ate", "I am eating",
 "I will eat", "I eat", etc - depending on what we're trying to say.
 
@@ -97,7 +97,7 @@ this form: linking actions / events / states together and making commands.
 In regards to linking actions - if you were to say, "I woke up and went to the bathroom" - you would
 use `て` to connect those two things together: `起きてトイレに行った`. In that sentence, `て` acts
 like the English word "and" - but it can also act as the English word "so" such as in the sentence:
-`頭痛で眠れなかった` (I had a headached **so** I couldn't sleep). If you read that sentence, you may
+`頭痛で眠れなかった` (I had a headache **so** I couldn't sleep). If you read that sentence, you may
 have noticed that we used `で` instead of `て` which is weird cause this is the `て` form - but
 that's just how some items in this form are conjugated 🙃
 
@@ -143,7 +143,7 @@ not actually sure why, though. If you do know - please let me know ^.^
 ## Concluding Thoughts
 
 It's a bit crazy to me that there's so many forms and that there's an affirmative and negative
-variant as well as a polite and casual variant for them. I'm sure English prolly has just as many -
+variant as well as a polite and casual variant for them. I'm sure English probably has just as many -
 but it's not something I've ever thought about before. I'm glad I took the time to try and parse
 each of these forms, though, as looking at the dictionary and seeing "Potential form" really meant
 nothing to me prior to this. In future posts I want to dive a bit further into each one of these
