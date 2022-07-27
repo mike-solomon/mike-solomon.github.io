@@ -9,7 +9,7 @@ categories: [Technical Writing, Zapier]
 In my technical writing course, we were tasked with analyzing the audience of some homepage. I
 picked Zapier for this, and you can find my analysis below.
 
-> [https://zapier.com/](https://zapier.com/)
+> You can find the Zapier homepage here: [https://zapier.com/](https://zapier.com/)
 
 ## What is Zapier?
 
