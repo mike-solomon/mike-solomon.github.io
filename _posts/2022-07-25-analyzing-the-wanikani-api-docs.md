@@ -9,7 +9,7 @@ categories: [Technical Writing, WaniKani]
 As part of my technical writing certification course, we were tasked with analyzing some online
 document. We were provided with a series of key questions to answer in order to evaluate how
 effective the document was. I chose to analyze the WaniKani API docs, and you can read my analysis
-of them below.git
+of them below.
 
 > You can find the API docs for yourself here:
 >
