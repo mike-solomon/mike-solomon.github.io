@@ -99,7 +99,7 @@ problems of forking a repo).
 
 I really liked Reverie for the most part, but I found a few key things I didn't like:
 
-- I didn't like how _everything_ was cenetered on it.
+- I didn't like how _everything_ was centered on it.
 - I didn't like the search page
 - I didn't like the categories page
 - I didn't like the fact that the blog posts all included the author's name.
